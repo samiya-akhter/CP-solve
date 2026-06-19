@@ -5,7 +5,7 @@
 | **Contest** | [2237](https://codeforces.com/contest/2237) |
 | **Problem** | [2237C — Duck Surplus](https://codeforces.com/contest/2237/problem/C) |
 | **Rating** | Gym/Unrated |
-| **Tags** | greedy |
+| **Tags** | dp, greedy |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 (GCC 14-64, msys2) |
 | **Runtime** | 62 ms |
