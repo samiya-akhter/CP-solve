@@ -5,7 +5,7 @@
 | **Contest** | [2237](https://codeforces.com/contest/2237) |
 | **Problem** | [2237A — Destroying Towers](https://codeforces.com/contest/2237/problem/A) |
 | **Rating** | Gym/Unrated |
-| **Tags** | N/A |
+| **Tags** | greedy |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 (GCC 14-64, msys2) |
 | **Runtime** | 46 ms |
