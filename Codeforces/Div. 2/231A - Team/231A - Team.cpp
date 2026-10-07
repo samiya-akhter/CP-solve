@@ -1,35 +1,18 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
+#include<bits/stdc++.h>
 using namespace std;
-int main()
-{
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
 
-    int T;
-    cin>>T;
-    int count=0;
-    while (T--)
-
-    { int arr[3];
-        int a=0;
-        for(int i=0; i<3;i++){
-            cin>>arr[i];
-            a+=arr[i];
-
-        }
-        if(a>1)
-        count++;
-        
+int main(){
+    int t;
+    cin>>t;
+    int ans=0;
+    while(t--){
+        int a,b,c;
+        cin>>a>>b>>c;
+        int sum=a+b+c;
+        if(sum>1) ans++;
     }
 
-    cout<<count;
-    
-
-
-
-    
-    
+    cout<<ans;
     return 0;
+
 }
