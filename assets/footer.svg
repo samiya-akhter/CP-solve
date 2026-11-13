@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="cp-solutions $ echo keep solving" xmlns:c2pa="http://c2pa.org/manifest">
 <defs><clipPath id="t"><rect x="44" y="58" height="34" width="420"><animate attributeName="width" dur="6s" begin="0s" fill="freeze" calcMode="linear" keyTimes="0;0.05;0.4;1" values="0;0;420;420"/></rect></clipPath></defs>
-<rect x="20" y="10" width="999" height="130" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect x=".5" y="10" width="999" height="130" rx="14" fill="#0d1117" stroke="#30363d"/>
 <path d="M20 44H980" stroke="#30363d"/>
 <circle cx="48" cy="27" r="6" fill="#ff5f56"/><circle cx="68" cy="27" r="6" fill="#ffbd2e"/><circle cx="88" cy="27" r="6" fill="#27c93f"/>
 <g font-family="Consolas,'SFMono-Regular','Courier New',monospace">
