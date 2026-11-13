@@ -1,0 +1,88 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+#define int long long
+#define endl "\n"
+#define Y "YES"
+#define N "NO"
+#define vin(v) for(auto &x : v) cin >> x
+#define vout(v) for(auto x : v) cout << x << " "
+
+#define all(v) v.begin(), v.end()
+#define rall(v) v.rbegin(), v.rend() // For sorting in descending order 
+
+const int INF = 1e18;
+const int MAXN = 200005;
+const int MOD = 1e9 + 7;
+
+int gcd(int a, int b){ return b ? gcd(b, a % b) : a; }
+int lcm(int a, int b){ return a / gcd(a,b) * b; }
+
+bool isPrime(int n){for(int i=2;i*i<=n;i++) if(n%i==0) return 0; return n>1;}
+
+int power(int a,int b){int ans=1;while(b){if(b&1)ans*=a;a*=a;b>>=1;}return ans;}
+
+vector<int> color;
+vector<int> adj[MAXN];
+stack<int> st;
+
+bool bipartite(int root){
+  if(color[root] == -1){
+    color[root] = 0;
+    st.push(root);
+
+    while(!st.empty()){
+      auto node = st.top(); st.pop();
+      for(auto w : adj[node]){
+        if(color[w] == -1){
+          color[w] = 1 - color[node];
+          st.push(w);
+        } else if(color[w] == color[node]) return false;
+      }
+    }
+  }
+
+  return true;
+}
+
+void solve() {
+  int v,e;
+  cin>>v>>e;
+  color.resize(v+1, -1);
+  int a,b;
+  for(int i=0;i<e;i++){
+    cin>>a>>b;
+    adj[a].push_back(b);
+    adj[b].push_back(a);
+  }
+
+  bool isBipartite = true;
+  for(int i = 1; i <= v; i++){
+      isBipartite = bipartite(i);
+      if(isBipartite == false) break;
+  }
+
+  if(!isBipartite){
+    cout << "IMPOSSIBLE";
+  } else {
+    for(int i = 1; i <= v; i++){
+      cout << ++color[i] << " ";
+    }
+  }
+
+}
+
+int32_t main() {
+
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  int t = 1;
+  //cin >> t;
+
+  while (t--) {
+    solve();
+  }
+
+  return 0;
+}
