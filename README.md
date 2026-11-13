@@ -2,25 +2,7 @@
   <img src="assets/banner.svg" alt="Terminal: Accepted × 322, competitive programming solutions in C++17" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/verdict-Accepted%20%C3%97%20322-238636?style=flat-square&labelColor=0d1117" alt="Accepted × 322">
-  <a href="https://codeforces.com/profile/USERNAME"><img src="https://img.shields.io/badge/Codeforces-254-4f9bff?style=flat-square&labelColor=0d1117" alt="Codeforces 254"></a>
-  <a href="https://cses.fi/user/USER_ID"><img src="https://img.shields.io/badge/CSES-32-3fb950?style=flat-square&labelColor=0d1117" alt="CSES 32"></a>
-  <a href="https://toph.co/p/USERNAME"><img src="https://img.shields.io/badge/Toph-24-a371f7?style=flat-square&labelColor=0d1117" alt="Toph 24"></a>
-  <a href="https://atcoder.jp/users/USERNAME"><img src="https://img.shields.io/badge/AtCoder-10-d29922?style=flat-square&labelColor=0d1117" alt="AtCoder 10"></a>
-  <a href="https://leetcode.com/u/USERNAME"><img src="https://img.shields.io/badge/LeetCode-2-e8873a?style=flat-square&labelColor=0d1117" alt="LeetCode 2"></a>
-  <img src="https://img.shields.io/badge/C%2B%2B-17-6366f1?style=flat-square&labelColor=0d1117" alt="C++17">
-</p>
-
-<p align="center">
-  <a href="#the-mosaic">Mosaic</a> ·
-  <a href="#verdict-board">Verdicts</a> ·
-  <a href="#codeforces-ladder">Ladder</a>
-</p>
-
 <br>
-
-## The mosaic
 
 <p align="center">
   <img src="assets/mosaic.svg" alt="322 squares, one per accepted solution, colored by judge" width="100%">
