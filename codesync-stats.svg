@@ -121,7 +121,7 @@
   <g transform="translate(24, 68)">
     <!-- Solved -->
     <g>
-      <text x="0" y="20" class="stat-val" font-size="22" fill="#58a6ff">318</text>
+      <text x="0" y="20" class="stat-val" font-size="22" fill="#58a6ff">319</text>
       <text x="0" y="34" class="stat-lbl">TOTAL SOLVED</text>
     </g>
 
@@ -133,7 +133,7 @@
 
     <!-- AC Accuracy -->
     <g>
-      <text x="245" y="20" class="stat-val" font-size="22" fill="#3fb950">50.5%</text>
+      <text x="245" y="20" class="stat-val" font-size="22" fill="#3fb950">50.6%</text>
       <text x="245" y="34" class="stat-lbl">AC ACCURACY</text>
     </g>
 
@@ -148,7 +148,7 @@
   <g>
     <rect x="24" y="118" width="447" height="7" rx="3.5" fill="#21262d"/>
     <g clip-path="url(#bar-clip)">
-      <rect x="24" y="118" width="357.0377358490566" height="7" fill="#58a6ff"/><rect x="381.0377358490566" y="118" width="40.764150943396224" height="7" fill="#3fb950"/><rect x="421.8018867924528" y="118" width="14.056603773584905" height="7" fill="#d29922"/><rect x="435.85849056603774" y="118" width="1.4056603773584906" height="7" fill="#f0883e"/><rect x="437.26415094339626" y="118" width="33.73584905660377" height="7" fill="#a371f7"/>
+      <rect x="24" y="118" width="355.9184952978057" height="7" fill="#58a6ff"/><rect x="379.9184952978057" y="118" width="42.03761755485893" height="7" fill="#3fb950"/><rect x="421.9561128526646" y="118" width="14.012539184952976" height="7" fill="#d29922"/><rect x="435.9686520376176" y="118" width="1.4012539184952977" height="7" fill="#f0883e"/><rect x="437.36990595611286" y="118" width="33.63009404388715" height="7" fill="#a371f7"/>
       <!-- Continuous Laser Shimmer Beam across Bar -->
       <rect x="24" y="118" width="447" height="7" fill="url(#laser-sweep)"/>
     </g>
@@ -172,7 +172,7 @@
         <animate attributeName="opacity" values="0.75; 1; 0.75" dur="2.25s" repeatCount="indefinite"/>
       </circle>
       <text x="21" y="17" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">CSES</text>
-      <text x="74" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">29</text>
+      <text x="74" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">30</text>
     </g>
     <g transform="translate(206, 137)">
       <rect width="83" height="26" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
