@@ -12,11 +12,11 @@
 
 <p align="center">
   <img src="assets/verdict-head.svg" alt="Verdict board: Accepted × 322 across five judges" width="100%"><br>
-  <a href="https://codeforces.com/profile/USERNAME"><img src="assets/verdict-codeforces.svg" alt="Codeforces: Accepted × 254 (78.9%). Opens profile." width="100%"></a><br>
-  <a href="https://cses.fi/user/USER_ID"><img src="assets/verdict-cses.svg" alt="CSES: Accepted × 32 (9.9%). Opens profile." width="100%"></a><br>
-  <a href="https://toph.co/p/USERNAME"><img src="assets/verdict-toph.svg" alt="Toph: Accepted × 24 (7.5%). Opens profile." width="100%"></a><br>
-  <a href="https://atcoder.jp/users/USERNAME"><img src="assets/verdict-atcoder.svg" alt="AtCoder: Accepted × 10 (3.1%). Opens profile." width="100%"></a><br>
-  <a href="https://leetcode.com/u/USERNAME"><img src="assets/verdict-leetcode.svg" alt="LeetCode: Accepted × 2 (0.6%). Opens profile." width="100%"></a>
+  <a href="https://codeforces.com/profile/pandame"><img src="assets/verdict-codeforces.svg" alt="Codeforces: Accepted × 254 (78.9%). Opens profile." width="100%"></a><br>
+  <a href="https://cses.fi/user/509146"><img src="assets/verdict-cses.svg" alt="CSES: Accepted × 32 (9.9%). Opens profile." width="100%"></a><br>
+  <a href="https://toph.co/p/pandame"><img src="assets/verdict-toph.svg" alt="Toph: Accepted × 24 (7.5%). Opens profile." width="100%"></a><br>
+  <a href="https://atcoder.jp/users/pandame"><img src="assets/verdict-atcoder.svg" alt="AtCoder: Accepted × 10 (3.1%). Opens profile." width="100%"></a><br>
+  <a href="https://leetcode.com/u/pandame"><img src="assets/verdict-leetcode.svg" alt="LeetCode: Accepted × 2 (0.6%). Opens profile." width="100%"></a>
 </p>
 
 <br>
