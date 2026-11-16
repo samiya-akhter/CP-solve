@@ -1,32 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Terminal: Accepted × 322, competitive programming solutions in C++17" width="100%">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="assets/mosaic.svg" alt="322 squares, one per accepted solution, colored by judge" width="100%">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="assets/verdict-head.svg" alt="Verdict board: Accepted × 322 across five judges" width="100%"><br>
-  <a href="https://codeforces.com/profile/pandame"><img src="assets/verdict-codeforces.svg" alt="Codeforces: Accepted × 254 (78.9%). Opens profile." width="100%"></a><br>
-  <a href="https://cses.fi/user/509146"><img src="assets/verdict-cses.svg" alt="CSES: Accepted × 32 (9.9%). Opens profile." width="100%"></a><br>
-  <a href="https://toph.co/p/pandame"><img src="assets/verdict-toph.svg" alt="Toph: Accepted × 24 (7.5%). Opens profile." width="100%"></a><br>
-  <a href="https://atcoder.jp/users/pandame"><img src="assets/verdict-atcoder.svg" alt="AtCoder: Accepted × 10 (3.1%). Opens profile." width="100%"></a><br>
-  <a href="https://leetcode.com/u/pandame"><img src="assets/verdict-leetcode.svg" alt="LeetCode: Accepted × 2 (0.6%). Opens profile." width="100%"></a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="assets/ladder.svg" alt="Codeforces ladder: Div. 1 10, Div. 2 119, Div. 3 70, Div. 4 42, Others 23. Div. 1 problems also sit in the Div. 2 folder, so 264 folders cover 254 unique problems." width="100%">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="assets/footer.svg" alt="cp-solutions $ echo keep solving" width="100%">
+  <a href="https://github.com/samiya-akhter/CP-solve">
+    <img src="codesync-stats.svg" alt="CodeSync Pro Dynamic Stats Card" width="495" />
+  </a>
 </p>
