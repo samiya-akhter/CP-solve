@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-label="Codeforces ladder: Div. 1 10, Div. 2 119, Div. 3 70, Div. 4 42, Others 23" xmlns:c2pa="http://c2pa.org/manifest">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-label="Codeforces ladder: Div. 1 10, Div. 2 112, Div. 3 70, Div. 4 44, Others 23" xmlns:c2pa="http://c2pa.org/manifest">
 <rect x="0.5" y="0.5" width="999" height="389" rx="20" fill="#0d1117" stroke="#30363d"/>
 <text font-family="Consolas,'SFMono-Regular','Courier New',monospace" x="40" y="62" font-size="12" letter-spacing="3" fill="#8b949e">CODEFORCES LADDER</text>
 <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="40" y="108" font-size="32" font-weight="800" fill="#f0f6fc">One rung</text>
@@ -15,7 +15,7 @@
 <text font-family="Consolas,'SFMono-Regular','Courier New',monospace" x="300" y="162" font-size="16" fill="#c9d1d9">Div. 2</text>
 <rect x="390" y="147" width="480" height="18" rx="9" fill="#161b22"/>
 <rect x="390" y="147" width="440.0" height="18" rx="9" fill="#4f9bff"><animate attributeName="width" from="0" to="440.0" dur="0.9s" begin="0.12s" fill="freeze"/></rect>
-<text font-family="Consolas,'SFMono-Regular','Courier New',monospace" x="960" y="162" font-size="16" font-weight="700" fill="#f0f6fc" text-anchor="end">119</text>
+<text font-family="Consolas,'SFMono-Regular','Courier New',monospace" x="960" y="162" font-size="16" font-weight="700" fill="#f0f6fc" text-anchor="end">112</text>
 <text font-family="Consolas,'SFMono-Regular','Courier New',monospace" x="300" y="218" font-size="16" fill="#c9d1d9">Div. 3</text>
 <rect x="390" y="203" width="480" height="18" rx="9" fill="#161b22"/>
 <rect x="390" y="203" width="258.8" height="18" rx="9" fill="#4f9bff"><animate attributeName="width" from="0" to="258.8" dur="0.9s" begin="0.24s" fill="freeze"/></rect>
@@ -23,7 +23,7 @@
 <text font-family="Consolas,'SFMono-Regular','Courier New',monospace" x="300" y="274" font-size="16" fill="#c9d1d9">Div. 4</text>
 <rect x="390" y="259" width="480" height="18" rx="9" fill="#161b22"/>
 <rect x="390" y="259" width="155.3" height="18" rx="9" fill="#4f9bff"><animate attributeName="width" from="0" to="155.3" dur="0.9s" begin="0.36s" fill="freeze"/></rect>
-<text font-family="Consolas,'SFMono-Regular','Courier New',monospace" x="960" y="274" font-size="16" font-weight="700" fill="#f0f6fc" text-anchor="end">42</text>
+<text font-family="Consolas,'SFMono-Regular','Courier New',monospace" x="960" y="274" font-size="16" font-weight="700" fill="#f0f6fc" text-anchor="end">44</text>
 <text font-family="Consolas,'SFMono-Regular','Courier New',monospace" x="300" y="330" font-size="16" fill="#c9d1d9">Others</text>
 <rect x="390" y="315" width="480" height="18" rx="9" fill="#161b22"/>
 <rect x="390" y="315" width="85.0" height="18" rx="9" fill="#8b949e"><animate attributeName="width" from="0" to="85.0" dur="0.9s" begin="0.48s" fill="freeze"/></rect>
